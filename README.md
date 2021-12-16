@@ -17,13 +17,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
+<h1>MBTI Personality Prediction Using Tweet History</h1>
 
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
+### About The Project
 The aim of our project is to sort different people into their MBTI personality types using our machine learning classifier. For this purpose, we would be using various text samples available from their social media posts and accounts. As there is a large amount of data and genuine information available in a social media account as opposed to a single personality test, we think that the accuracy of our model would be much higher than that of a single personality test therefore we decided to work in this area. A successful implementation of such a model would demonstrate a strong connection between personality type and the language that we use in our daily life. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -102,7 +101,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
      <li> Pope Francis</li>
      <li>Rupert Murdoch</li>
      <li>Lloyd Blankfein</li>
-     <li>Jeff Bejoz</li>
+     <li>Jeff Bezos</li>
    </ol>
    <h3>Female Personalities</h3>
    <p align="center">
