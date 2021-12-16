@@ -95,7 +95,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * Variation observed in the following personality types using their last 50 tweets:<br>
     1. Vladimir Putin
     <p align="center">
-  <img src="images/putin.PNG"  height=200 width =400/>
+  <img src="images/putin.PNG"  height=700 width =400/>
 </p>
     3. Pope Francis
     4. Rupert Murdoch
