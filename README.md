@@ -76,13 +76,14 @@ This section should list any major frameworks/libraries used to bootstrap your p
    8. SVC <br>
   Linear SVC algorithm gave the best accuracy.
   <p align="center">
-  <img src="images/linear svc.PNG" height=350 width= 500 />
+  <img src="images/linear svc.PNG" height=350 width= 500 >
 </p>
-* Test Data Extraction from - <br> 
-   1. Forbes Most Significant Figures
-   2. The World’s Most Powerful Women and People
-  Their MBTI Personality was gathered from Personality Database.
-  Last 50 tweets were extracted.
+* Test Data Extraction from
+   <ol>
+      <li> Forbes Most Significant Figures</li>
+      <li> The World’s Most Powerful Women and People</li>
+    </ol>
+  <p>Their MBTI Personality was gathered from Personality Database.Last 50 tweets were extracted.</p>
 * Test Data Visualization and Analysis
 * <p align="center">
   <img src="images/male test.PNG"  height=200 width =400/>
@@ -90,9 +91,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <p align="center">
   <img src="images/female test.PNG"  height=200 width =400/>
 </p>
-* Test data preprocessing
-* Predictions made on test data using Linear SVC.
-* Variation observed in the following personality types using their last 50 tweets:<br>
+<p>Test data preprocessing.Predictions made on test data using Linear SVC.Variation observed in the following personality types using their last 50 tweets:</p><br>
 * <h3>Male Personalities</h3>
  <p align="center">
      <img src="images/putin.PNG"  height=450 width =400>
