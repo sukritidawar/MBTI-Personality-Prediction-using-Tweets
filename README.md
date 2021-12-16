@@ -110,7 +110,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-We noticed that INTJ (Introvert, Intuitive, Thinking, Judging)  was the most common personality type in powerful men whereas ENTJ(Extrovert, Intuitive, Thinking, Judging)   turned out to be most common in women i.e the only difference between the personality type of men and women is that powerful women tend to be more extroverted than powerful men. 
+We noticed that INTJ (Introvert, Intuitive, Thinking, Judging)  was the most common personality type in powerful men whereas ENTJ(Extrovert, Intuitive, Thinking, Judging)   turned out to be most common in women i.e the only difference between the personality type of men and women is that powerful women tend to be more extroverted than powerful men. Jeff Bezos'tweets were greatly varying in feeling and thinking whereas Jacinda Arden's tweets were greatly varying in perception and judging. Vladimir Putin showed a consistent personality type in all his tweets.
 
 
 
