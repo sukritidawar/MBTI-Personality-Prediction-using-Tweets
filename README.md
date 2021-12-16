@@ -71,7 +71,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
    8. SVC <br>
   Linear SVC algorithm gave the best accuracy.
   <p align="center">
-  <img src="images/linear svc.PNG"  />
+  <img src="images/linear svc.PNG height=350 width= 500"  />
 </p>
 * Test Data Extraction from - <br> 
    1. Forbes Most Significant Figures
@@ -83,7 +83,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
   <img src="images/male test.PNG"  height=200 width =400/>
 </p>
 <p align="center">
-  <img src="images/feamle test.PNG"  height=200 width =400/>
+  <img src="images/female test.PNG"  height=200 width =400/>
 </p>
 * Test data preprocessing
 * Predictions made on test data using Linear SVC.
