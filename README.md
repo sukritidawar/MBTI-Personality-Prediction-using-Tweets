@@ -94,18 +94,18 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * Predictions made on test data using Linear SVC.
 * Variation observed in the following personality types using their last 50 tweets:<br>
     1. Vladimir Putin
-    <p align="center">
-  <img src="images/putin.PNG"  height=500 width =400/>
-</p>
-    3. Pope Francis
-    4. Rupert Murdoch
-    5. Lloyd Blankfein
-    6. Jeff Bezoz
-    7. Kamala Harris
-    8. Jacinda Ardern
-    9. Christine Lagarde
-    10. Ursula von der Leyen
-    11. Nancy Pelosi
+     <p align="center">
+     <img src="images/putin.PNG"  height=500 width =400/>
+     </p>
+    2. Pope Francis
+    3. Rupert Murdoch
+    4. Lloyd Blankfein
+    5. Jeff Bezoz
+    6. Kamala Harris
+    7. Jacinda Ardern
+    8. Christine Lagarde
+    9. Ursula von der Leyen
+    10. Nancy Pelosi
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
