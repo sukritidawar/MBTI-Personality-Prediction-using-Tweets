@@ -93,15 +93,23 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * Test data preprocessing
 * Predictions made on test data using Linear SVC.
 * Variation observed in the following personality types using their last 50 tweets:<br>
+* <p>Male Personalities</p>
 *  <p align="center">
-     <img src="images/putin.PNG"  height=500 width =400>
+     <img src="images/putin.PNG"  height=450 width =400>
    </p>
+   
    <ol>
      <li> Vladimir Putin</li>
      <li> Pope Francis</li>
      <li>Rupert Murdoch</li>
      <li>Lloyd Blankfein</li>
-     <li>Jeff Bezoz</li>
+     <li>Jeff Bejoz</li>
+   </ol>
+   <p>Female Personalities</p>
+   <p align="center">
+     <img src="images/kamla.PNG"  height=450 width =400>
+   </p>
+   <ol>
      <li>Kamala Harris</li>
      <li>Jacinda Ardern</li>
      <li>Christine Lagarde</li>
