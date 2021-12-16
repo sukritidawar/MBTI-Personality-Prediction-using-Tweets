@@ -71,7 +71,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
    8. SVC <br>
   Linear SVC algorithm gave the best accuracy.
   <p align="center">
-  <img src="images/linear svc.PNG height=350 width= 500"  />
+  <img src="images/linear svc.PNG" height=350 width= 500 />
 </p>
 * Test Data Extraction from - <br> 
    1. Forbes Most Significant Figures
