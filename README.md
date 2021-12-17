@@ -82,16 +82,17 @@ This section should list any major frameworks/libraries used to bootstrap your p
       <li> Forbes Most Significant Figures</li>
       <li> The World’s Most Powerful Women and People</li>
     </ol>
-  <p>Their MBTI Personality was gathered from Personality Database.Last 50 tweets were extracted.</p>
+  <p>Their MBTI Personality was gathered from Personality Database.Last 50 tweets were extracted.</p><br>
 * Test Data Visualization and Analysis
-* <p align="center">
+<p align="center">
   <img src="images/male test.PNG"  height=200 width =400/>
 </p>
 <p align="center">
   <img src="images/female test.PNG"  height=200 width =400/>
 </p>
-<p>Test data preprocessing.Predictions made on test data using Linear SVC.Variation observed in the following personality types using their last 50 tweets:</p><br>
-* <h3>Male Personalities</h3>
+<p>Test data preprocessing.Predictions made on test data using Linear SVC.</p><br>
+* Variation observed in the following personality types using their last 50 tweets:
+<h3>Male Personalities</h3>
  <p align="center">
      <img src="images/putin.PNG"  height=450 width =400>
    </p>
@@ -118,8 +119,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-*Jeff Bezos' tweets were greatly varying in feeling and thinking whereas Jacinda Arden's tweets were greatly varying in perception and judging. *Vladimir Putin showed a consistent personality type in all his tweets whereas Kamala Harris’ mbti personality is not matching with personality type that she showed with her tweets.
-*Also, we noticed that most of these significant figures showed a personality type INTP(Introversion Intuition Thinking Perception )through their tweets which is a little different than their original ones, which we believe could be a reason because of the formal language used in their tweets.
+### Observations
+*Jeff Bezos' tweets were greatly varying in feeling and thinking whereas Jacinda Arden's tweets were greatly varying in perception and judging. <br>
+*Vladimir Putin showed a consistent personality type in all his tweets whereas Kamala Harris’ mbti personality is not matching with personality type that she showed with her tweets. <br>
+*Also, we noticed that most of these significant figures showed a personality type INTP(Introversion Intuition Thinking Perception )through their tweets which is a little different than their original ones, which we believe could be a reason because of the formal language used in their tweets. <br>
 
 
 
