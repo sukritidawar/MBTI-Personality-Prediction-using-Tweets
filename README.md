@@ -40,7 +40,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 
-## Libraries Used 
+## Requirements 
    1. panda 
    2. matplotlib
    3. numpy
