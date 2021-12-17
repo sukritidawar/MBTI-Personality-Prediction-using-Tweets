@@ -40,14 +40,14 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 
-## Requirements 
+## Libraries Used 
    1. panda 
    2. matplotlib
    3. numpy
    4. nltk
    5. sklearn
    6. keras
-   7. gensim
+   7. wordcloud
    8. tweepy
 
 
